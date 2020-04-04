@@ -24,3 +24,7 @@ npm run test
 ```
 npm run lint
 ```
+### Credits
+```
+Thanks to Vuesax & Themelock
+```
