@@ -1,0 +1,59 @@
+{
+
+
+   "viewdeskreview":[
+    
+      {
+        "idProposal": "1902321509255",
+        "tanggalSuratMohon": "2019-02-06",
+        "idKoperasil": "3273240.20234",
+        "namaMitra": "20234_mitra",
+        "alamat": "alamat mitra_3273240.20234",
+        "jenis": "UKM",
+        "tanggalTerima": "2019-02-07",
+        "stat": "PENDING"
+      },
+      {
+        "idProposal": "1902321505214",
+        "tanggalSuratMohon": "2019-02-20",
+        "idKoperasil": "3204270.20382",
+        "namaMitra": "20382_mitra",
+        "alamat": "alamat mitra_3204270.20382",
+        "jenis": "UKM",
+        "tanggalTerima": "2019-02-22",
+        "stat": "PENDING"
+      },
+      {
+        "idProposal": "1902321500043",
+        "tanggalSuratMohon": "2019-02-09",
+        "idKoperasil": "3205100.20385",
+        "namaMitra": "20385_mitra",
+        "alamat": "alamat mitra_3205100.20385",
+        "jenis": "UKM",
+        "tanggalTerima": "2019-02-12",
+        "stat": "PENDING"
+      },
+      {
+        "idProposal": "1903321507918",
+        "tanggalSuratMohon": "2019-01-25",
+        "idKoperasil": "3273010.20389",
+        "namaMitra": "20389_mitra",
+        "alamat": "alamat mitra_3273010.20389",
+        "jenis": "UKM",
+        "tanggalTerima": "2019-03-04",
+        "stat": "PENDING"
+      },
+      {
+        "idProposal": "1902321506464",
+        "tanggalSuratMohon": "2019-02-12",
+        "idKoperasil": "3216041.20393",
+        "namaMitra": "20393_mitra",
+        "alamat": "alamat mitra_3216041.20393",
+        "jenis": "UKM",
+        "tanggalTerima": "2019-02-22",
+        "stat": "PENDING"
+      }
+    
+   ]           
+
+}
