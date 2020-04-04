@@ -26,5 +26,7 @@ npm run lint
 ```
 ### Credits
 ```
-Thanks to Vuesax & Themelock
+Thanks to Vuesax
+Author: Pixinvent
+Author URL: http://www.themeforest.net/user/pixinvent
 ```
