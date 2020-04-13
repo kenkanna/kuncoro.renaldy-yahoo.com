@@ -57,6 +57,13 @@ export default [
         slug: "deskreview",
         icon: "BookOpenIcon",
         i18n: "View Desk Review",
+      },
+      {
+        url: "/apps/uploadkelengkapan",
+        name: "UploadKelengkapan",
+        slug: "uploadkelengkapan",
+        icon: "BookOpenIcon",
+        i18n: "Upload Kelengkapan",
       }
     ]
   },

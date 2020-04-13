@@ -94,6 +94,15 @@ const router = new Router({
                     }
                 },
                 {
+                    path: '/apps/uploadkelengkapan',
+                    name: 'uploadkelengkapan',
+                    component: () => import('./views/apps/uploadkelengkapan/UploadKelengkapan.vue'),
+                    meta: { 
+                        rule: 'editor' 
+                    }
+                },
+
+                {
                     path: '/apps/email',
                     name: 'email',
                     component: () => import('./views/apps/email/Email.vue'),
