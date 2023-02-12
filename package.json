@@ -10,7 +10,7 @@
     "docs:build": "vuepress build docs"
   },
   "dependencies": {
-    "@chenfengyuan/vue-countdown": "^1.1.2",
+    "@chenfengyuan/vue-countdown": "^1.1.5",
     "ag-grid-community": "^20.2.0",
     "ag-grid-vue": "^20.2.0",
     "algoliasearch": "^3.33.0",
